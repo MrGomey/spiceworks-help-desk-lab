@@ -1,15 +1,5 @@
 # spiceworks-help-desk-lab
-Hands-on Help Desk ticket simulation using Spiceworks to practice real-world IT support, troubleshooting, and documentation.
 
-spiceworks-help-desk-lab/
-│
-├── README.md
-├── tickets/
-│   ├── ticket-001-login-issue.md
-│   ├── ticket-002-printer-offline.md
-│   ├── ticket-003-outlook-issue.md
-│   ├── ticket-004-wifi-issue.md
-│   └── ticket-005-shared-drive.md
 
 # 🛠️ Help Desk Ticket Simulation Lab (Spiceworks)
 
@@ -57,7 +47,7 @@ To build practical experience handling IT support tickets, troubleshooting issue
 # Ticket 001 - Cannot Log Into Workstation
 
 ## User
-Front Desk Coordinator
+Teresa (Doctor)
 
 ## Issue
 User unable to log into workstation due to incorrect password error.
@@ -84,7 +74,7 @@ Always verify basic input issues before escalating.
 # Ticket 002 - Printer Offline
 
 ## User
-Billing Department
+Janice HR
 
 ## Issue
 Printer showing offline and unable to print invoices.
@@ -109,7 +99,7 @@ Printer queue and connectivity are common root causes.
 # Ticket 003 - Emails Stuck in Outlook
 
 ## User
-Office Manager
+Sam (Doctor)
 
 ## Issue
 Emails stuck in Outbox and not sending.
@@ -131,6 +121,59 @@ Delayed communication with clients and staff.
 
 ## Takeaway
 Application restarts often resolve connection-related issues.
+<img width="1194" height="819" alt="Screenshot 2026-04-08 at 2 22 25 PM" src="https://github.com/user-attachments/assets/cdbd27f0-47c8-40a8-8256-2d4fd22acb07" />
+
+# Ticket 004 - Wi-Fi Disconnecting
+
+## User
+Ariana HR
+
+## Issue
+Laptop disconnects from Wi-Fi intermittently.
+
+## Priority
+Medium
+
+## Troubleshooting
+- Checked signal strength
+- Restarted network adapter
+- Reconnected to Wi-Fi network
+
+## Resolution
+Connection stabilized after reconnecting to network.
+
+## Impact
+Interrupted workflow during patient care.
+
+## Takeaway
+Network adapter resets can resolve connectivity instability.
+<img width="1194" height="823" alt="Screenshot 2026-04-08 at 2 28 06 PM" src="https://github.com/user-attachments/assets/8fccc541-a762-4ab8-b744-0c5894cbd049" />
+
+# Ticket 005 - Shared Drive Missing
+
+## User
+Sam (Doctor)
+
+## Issue
+Shared drive not visible in File Explorer.
+
+## Priority
+Medium
+
+## Troubleshooting
+- Verified network connectivity
+- Remapped shared drive
+- Confirmed correct permissions
+
+## Resolution
+Shared drive restored successfully.
+
+## Impact
+User could not access important billing files.
+
+## Takeaway
+Drive mapping issues are common in network environments.
+<img width="1193" height="823" alt="Screenshot 2026-04-08 at 2 26 36 PM" src="https://github.com/user-attachments/assets/ec3f1371-a7f7-44f4-8e6e-b0c9cf13beea" />
 
 
 ## 🧠 Key Takeaways
