@@ -188,7 +188,4 @@ Drive mapping issues are common in network environments.
 - Incorporate Active Directory and Azure AD concepts
 - Expand troubleshooting depth
 
----
 
-## 💡 Why This Project Matters
-This lab reflects how real help desk technicians manage and resolve IT issues. It demonstrates hands-on experience in troubleshooting, documentation, and support workflows — key skills for entry-level IT roles.
